@@ -6,4 +6,4 @@ readme.md: guessinggame.sh
 	echo "# GuessingGame" > README.md
 	date >> README.md
 	echo "<br />" >> README.md
-	wc -l guessinggame.sh >> README.md
+	wc -l >> README.md
